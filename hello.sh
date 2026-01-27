@@ -1,2 +1,2 @@
-echo "Hello from Jenkins Auto Build Test 3"
+echo "Hello from Jenkins Auto Build Test 4"
 
