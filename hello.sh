@@ -1,1 +1,1 @@
-echo "Hello from Git + Jenkins Integration"
+echo "Hello from Jenkins - Auto Trigger"
