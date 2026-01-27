@@ -1,1 +1,2 @@
-echo "Hello from Jenkins - Auto Trigger"
+echo "Hello from Jenkins Auto Build Test"
+
