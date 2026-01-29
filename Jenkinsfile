@@ -3,13 +3,6 @@ pipeline {
 
     stages {
 
-        stage('Checkout') {
-            steps {
-                echo 'Checkout source code'
-                git 'https://github.com/mohitkumar-dev95/jenkins-demo.git'
-            }
-        }
-
         stage('Build') {
             steps {
                 echo 'Build stage'
