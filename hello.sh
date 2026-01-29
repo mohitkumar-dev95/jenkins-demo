@@ -1,2 +1,2 @@
-echo "Hello from Jenkins Auto Build Test 16"
-
+#!/bin/bash
+echo "Hello Jenkins CI/CD Pipeline"
